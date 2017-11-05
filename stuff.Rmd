@@ -1,0 +1,12 @@
+---
+title: "stuff"
+output: html_document
+---
+
+```{r}
+print("Some stuff.")
+```
+
+This document contains some stuff.
+
+Hi. Hello.
